@@ -1,0 +1,77 @@
+body {
+	background-color: rgb(206, 205, 205);
+
+}
+
+header {
+
+	background: white;
+	justify-content: center;
+
+
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+
+}
+
+.container {
+	width: 550px;
+	margin: auto;
+	text-align: center;
+}
+
+
+.post {
+	
+	background-color: white;
+	margin-top: 50px;
+	box-shadow: 10px 20px 30px rgb(155, 155, 255)
+
+
+
+
+
+
+}
+
+span {
+	color: gray;
+
+}
+
+img {
+border-radius: 1px;
+	width: 100%;
+}
+
+.post-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.post h2,
+.post span {
+	
+	padding: 15px  15px;
+	margin: 0px;
+
+
+}
+
+p {
+	text-align: start;
+
+}
+
+
+
+
+
+
+
+
+
